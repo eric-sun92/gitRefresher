@@ -5,9 +5,15 @@
 // git status -> vscode has visualization
 
 // git log
+// --all will give all commits even ones after current
+// --graph will show branch
 
 // git commit -m
 // --amend
 
 // git reset
 // take out of staging area
+
+// view previous version
+// git checkout (commit hash) (branch name)
+// commit hash is the long string from git log
