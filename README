@@ -5,6 +5,8 @@
 // git status -> vscode has visualization
 
 // git log
+// --all will give all commits even ones after current
+// --graph will show branch
 
 // git commit -m
 // --amend
