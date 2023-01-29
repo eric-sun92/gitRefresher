@@ -1,6 +1,13 @@
-git tutorial
+// git tutorial
 
-git init 
+// git init
 
-git status
+// git status -> vscode has visualization
 
+// git log
+
+// git commit -m
+// --amend
+
+// git reset
+// take out of staging area
