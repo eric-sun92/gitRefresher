@@ -11,3 +11,7 @@
 
 // git reset
 // take out of staging area
+
+// view previous version
+// git checkout (commit hash)
+// commit hash is the long string from git log
